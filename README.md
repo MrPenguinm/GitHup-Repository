@@ -1,4 +1,4 @@
-"# GitHub Repositories Fetcher"
+# GitHub Repositories Fetcher
 📌 Overview
 GitHub Repositories Fetcher is a simple web application that allows users to fetch and display repositories of any GitHub user. It utilizes the GitHub API and JavaScript Fetch API to retrieve repository data dynamically.
 
